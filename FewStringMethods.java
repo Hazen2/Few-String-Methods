@@ -1,6 +1,12 @@
-// This program will demonstrate a few String methods
+/** This class creates a program that will demonstrate a few String methods
+* 
+*/ 
 public class FewStringMethods
 {
+
+  /**  This is the main method, declaring the variables, String object and
+  *    performing the instructions of the String methods used.
+  */
   public static void main(String[] args)
   {
    
