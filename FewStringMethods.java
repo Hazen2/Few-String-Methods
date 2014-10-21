@@ -1,4 +1,4 @@
-/** This class creates a program that will demonstrate a few String methods
+/** This class creates a program that will demonstrate a few String methods.
 * 
 */ 
 public class FewStringMethods
